@@ -1,9 +1,9 @@
-#Methods
+# Methods
 
 # Repeats
 Using: [TETools](https://github.com/Dfam-consortium/TETools)
 
-## where
+## where
 * the current directory is the working directory (where the input fasta needs to reside)
 * $SPECIES is the species id (ToLID)
 * $THREADS is the number of threads
