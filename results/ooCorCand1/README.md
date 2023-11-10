@@ -7,6 +7,7 @@
 # files hosted elsewhere
 * [softmasked genome FASTA](https://asg_hubs.cog.sanger.ac.uk/ooCorCand1/ooCorCand1.fa.masked)
 * [tarball of RepeatModeller output](https://asg_hubs.cog.sanger.ac.uk/ooCorCand1/ooCorCand1.tar.xz)
+* [prepublication RNASeq](https://www.ebi.ac.uk/ena/browser/view/ERR11814103)
 
 # UCSC assembly hub
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt

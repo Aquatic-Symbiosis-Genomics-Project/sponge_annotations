@@ -7,6 +7,7 @@
 # files hosted elsewhere
 * [softmasked genome FASTA](https://asg_hubs.cog.sanger.ac.uk/odHalCaeu1/odHalCaeu1.fa.masked)
 * [tarball of RepeatModeller output](https://asg_hubs.cog.sanger.ac.uk/odHalCaeu1/odHalCaeu1.tar.xz)
+* [BAM file](https://asg_hubs.cog.sanger.ac.uk/odHalCaeu1/VARUS.bam) of VARUS sampled RNASeq from SRA (max 30 million spots) - WARNING: failed QC
 
 # UCSC assembly hub
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt
