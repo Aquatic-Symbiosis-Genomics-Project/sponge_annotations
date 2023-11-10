@@ -1,4 +1,6 @@
 # Methods
+Using singularity images if possible.
+Generally moving the working directory onto a fast storage system and copying the results back is advisable.
 
 # Repeats
 Using: [TETools](https://github.com/Dfam-consortium/TETools)
