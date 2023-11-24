@@ -1,6 +1,3 @@
-# WARNING
-there was potential contamination picked up in the GALBA predictions, so we are investigating what happend, and potentially will redo it.
-
 # files for odDysAvar1
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
