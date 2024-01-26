@@ -41,9 +41,10 @@ Using: [BRAKER3](https://hub.docker.com/r/teambraker/braker3) / [GALBA](https://
 * $BAM is the varus.bam
 
 ## BRAKER3
-currently set to use 22 cores / 48G RAM for sponges
+* currently set to use 22 cores / 48G RAM for sponges
+* there is no OrthoDB BUSCO set for porifera, so metazoa_odb10 is the closest lineage
 ```
-singularity exec --bind `pwd`:$HOME $BRAKER braker.pl --genome=$FASTA --prot_seq=$DB --threads=$THREADS --bam=$BAM --workingdir=BRAKER3 --species=$SPECIES
+singularity exec --bind `pwd`:$HOME $BRAKER braker.pl --genome=$FASTA --prot_seq=$DB --threads=$THREADS --bam=$BAM --workingdir=BRAKER3 --species=$SPECIES --busco_lineage=metazoa_odb10
 ```
 ## GALBA
 currently set to use 8 cores / 20G RAM for sponges
