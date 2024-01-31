@@ -12,3 +12,5 @@
 # UCSC assembly hub
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt
 
+# Notes:
+* braker was rerun with additional RNASeq from Ana Riesgo (31st January 2024)
