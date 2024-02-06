@@ -1,3 +1,6 @@
+# Notes
+was rerun with BRAKER3 (3.0.7) and updated RNA/protein data
+
 # files for odChoReni1
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
