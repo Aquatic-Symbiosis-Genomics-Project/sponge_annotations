@@ -1,3 +1,6 @@
+# Note
+updated with newer braker3 (3.0.7) and updated RNA/protein data
+
 # files for odPetFici3
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
