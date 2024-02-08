@@ -1,3 +1,6 @@
+# Notes
+updated with braker 3.0.7 and newer protein/RNA data
+
 # files for odEunFrag1
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
