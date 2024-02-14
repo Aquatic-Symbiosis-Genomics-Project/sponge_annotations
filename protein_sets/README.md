@@ -11,3 +11,10 @@ Warren R. Francis†, Michael Eitel†, Sergio Vargas, Catalina A. Garcia-Escude
 
 ## O_lobularis_transdecoder.fa.xz
 From ["Evolution of mechanisms controlling epithelial morphogenesis across animals: new insights from dissociation-reaggregation experiments in the sponge Oscarella lobularis" Amélie Vernale, Maria Mandela Prünster, Fabio Marchianò, Henry Debost, Nicolas Brouilly, Caroline Rocher, Dominique Massey-Harroche, Emmanuelle Renard, André Le Bivic, Bianca H. Habermann & Carole Borchiellin](https://bmcecolevol.biomedcentral.com/articles/10.1186/s12862-021-01866-x)
+
+## filter_fasta.rb
+small script to 
+* clean up the headers
+* skip entries with duiplicate IDs
+* skip proteins with in-frame stops
+* remove trailing stops
