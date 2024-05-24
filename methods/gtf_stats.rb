@@ -1,5 +1,5 @@
 #!/bin/env ruby
-# gtf_stats.rb <GTF>
+# ruby gtf_stats.rb <GTF>
 # zcat <GTF.gz> | ruby gtf_stats.rb
 
 transcripts = 0
