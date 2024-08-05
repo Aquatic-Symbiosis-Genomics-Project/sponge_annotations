@@ -1,4 +1,7 @@
-# files for odSpoOffi2
+# Notes
+Turned out to be Spongia lamella rather than officinalis
+
+# files for odSpoOffi2 (Spongia lamella)
 * galba.aa.xz - proteins from GALBA predictions
 * galba.gtf.xz - GTF style annotations from GALBA
 
