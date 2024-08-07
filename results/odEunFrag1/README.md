@@ -1,5 +1,5 @@
 # Notes
-updated with braker 3.0.7 and newer protein/RNA data
+updated with braker 3.0.8 and newer protein/RNA data
 
 # files for odEunFrag1
 * braker.aa.xz - proteins from BRAKER3 predictions
