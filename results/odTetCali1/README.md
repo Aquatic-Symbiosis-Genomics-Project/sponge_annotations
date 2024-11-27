@@ -1,6 +1,8 @@
 # files for odTetCali1 / Tethya californiana 
 * galba.aa.xz - proteins from GALBA predictions
 * galba.gtf.xz - GTF style annoations from GALBA
+* braker.aa.xz - proteins from BRAKER3 predictions
+* braker.gtf.xz - GTF style annoations from BRAKER3
 
 # files hosted elsewhere
 * [softmasked genome FASTA](https://asg_hubs.cog.sanger.ac.uk/odTetCali1/odTetCali1.fa.masked)
