@@ -1,8 +1,8 @@
 # protein sets
 ## braker_porifera.fa.xz
-From a first round of running BRAKER on the collected ASG porifera genomes. For use with braker/galba they were reheadered to braker3_(increasing number)
+From running BRAKER on the collected ASG porifera genomes. For use with braker/galba they were reheadered to braker3_(increasing number)
 
-## porifera_uniprot_30_01_2024.fa.xz
+## porifera_uniprot_13_01_2025.fa.xz
 All porifera proteins of UniProt as of 30th of January 2024
 
 ## Aphrocallistes_vastus.prot.fr.fasta.xz
