@@ -3,7 +3,7 @@
 From running BRAKER on the collected ASG porifera genomes. For use with braker/galba they were reheadered to braker3_(increasing number)
 
 ## porifera_uniprot_13_01_2025.fa.xz
-All porifera proteins of UniProt as of 30th of January 2024
+All porifera proteins of UniProt as of 13th of January 2025
 
 ## Aphrocallistes_vastus.prot.fr.fasta.xz
 From ["The genome of the reef-building glass sponge Aphrocallistes vastus provides insights into silica biomineralization"
