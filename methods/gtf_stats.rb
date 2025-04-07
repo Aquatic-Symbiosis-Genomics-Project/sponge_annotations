@@ -2,6 +2,8 @@
 # ruby gtf_stats.rb <GTF>
 # zcat <GTF.gz> | ruby gtf_stats.rb
 
+require 'yaml'
+
 transcripts = 0
 genes       = 0
 exons       = 0
@@ -25,17 +27,16 @@ ARGF.each_line{|line|
   end
 }
 
-puts <<-HERE
-genes: #{genes}
-average gene length: #{total_gene_length/genes}) bp
-transcripts: #{transcripts}
-transcripts / gene: #{transcripts.to_f/genes}
-average transcript length: #{total_exon_length/transcripts} bp
-exons / transcript: #{exons.to_f/transcripts}
-average exon length: #{total_exon_length/exons} bp
+stats=Hash.new
+stats["genes"] = genes
+stats["average_gene_length"] = total_gene_length / genes
+stats["transcripts_per_gene"] = transcripts.to_f / genes
+stats["average_transcript_length"] = total_exon_length / transcripts 
+stats["exons_per_transcript"] = exons.to_f / transcripts
+stats["average_exon_length"] = total_exon_length / exons
 
-HERE
+puts stats.to_yaml
 
-gene_biotypes.each{|k,v|
-    puts "#{k} => #{v}"
-}
+# gene_biotypes.each{|k,v|
+#     puts "#{k} => #{v}"
+# }
