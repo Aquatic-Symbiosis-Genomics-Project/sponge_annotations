@@ -7,5 +7,8 @@
 * [tarball of RepeatModeller output](https://asg_hubs.cog.sanger.ac.uk/odPleTurb1/odPleTurb1.tar.xz)
 * [BAM file](https://asg_hubs.cog.sanger.ac.uk/odPleTurb1/VARUS.bam) of VARUS sampled RNASeq from SRA
 
+# Notes:
+* contaminant glass sponge sequences have been removed and the annotation redone
+
 # UCSC assembly hub
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt
