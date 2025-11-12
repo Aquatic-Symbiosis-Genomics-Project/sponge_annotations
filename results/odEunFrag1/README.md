@@ -1,7 +1,7 @@
 # Notes
 updated with braker 3.0.8 and newer protein/RNA data
 
-# files for odEunFrag1
+# files for odEunFrag1 (Eunapius fragilis)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 * galba.aa.xz - proteins from GALBA predictions

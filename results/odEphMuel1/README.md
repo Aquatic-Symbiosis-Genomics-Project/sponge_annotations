@@ -1,8 +1,9 @@
 # Note
 * the GALBA geneset is more fragmented, but also more complete
 * I picked the BRAKER3 set as reference, as it is cleaner
+* the sample has been identified as E. cf. muelleri rather than E.muelleri
 
-# files for odEphMuel1 / Ephydatia muelleri
+# files for odEphMuel1 ( Ephydatia cf. muelleri )
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 * galba.aa.xz - proteins from GALBA predictions
