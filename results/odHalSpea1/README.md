@@ -5,7 +5,7 @@
 * braker.gtf.xz - GTF style annoations from BRAKER3
 
 # files hosted elsewhere
-* [softmasked genome FASTA](https://asg_hubs.cog.sanger.ac.uk/ooOscZora1/ooOscZora1.fa.masked)
+* [softmasked genome FASTA](https://asg_hubs.cog.sanger.ac.uk/ooOscZora1/odHalSpea1.fa.masked)
 * [tarball of RepeatModeller output](https://asg_hubs.cog.sanger.ac.uk/ooOscZora1/ooOscZora1.tar.xz)
 
 # UCSC assembly hub
