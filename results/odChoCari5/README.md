@@ -1,4 +1,4 @@
-# files for odChoCari5 / Chondrilla caribensis
+# files for odChoCari5 / Chondrilla cf. caribensis
 * galba.aa.xz - proteins from GALBA predictions
 * galba.gtf.xz - GTF style annoations from GALBA
 * braker.aa.xz - proteins from BRAKER3 predictions
@@ -12,3 +12,5 @@
 # UCSC assembly hub
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt
 
+# Notes
+* was originally identified as Chondrilla caribensis

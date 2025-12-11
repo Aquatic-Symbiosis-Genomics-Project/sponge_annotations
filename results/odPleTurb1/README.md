@@ -8,7 +8,8 @@
 * [BAM file](https://asg_hubs.cog.sanger.ac.uk/odPleTurb1/VARUS.bam) of VARUS sampled RNASeq from SRA
 
 # Notes:
-* contaminant glass sponge sequences have been removed and the annotation redone
+* contaminant sponge sequences have been removed and the annotation redone
+* is probably not Pleroma turbinatum but Saccocalyx tetractinus (due to a sample swap)
 
 # UCSC assembly hub
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt
