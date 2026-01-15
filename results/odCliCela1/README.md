@@ -1,4 +1,4 @@
-# files for Cliona celata (odCliCela1)
+# files for Cliona cf. celata (odCliCela1)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 
@@ -11,4 +11,4 @@
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt
 
 # Notes
-* the taxonomy identification is under investigation and might not be accurate
+* the taxonomy was changed from Cliona celata
