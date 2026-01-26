@@ -9,3 +9,5 @@
 # UCSC assembly hub
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt
 
+# Notes:
+* there will be a namechange from Phakellia hirondellei to Phakelia cf. robusta
