@@ -1,4 +1,4 @@
-# files for odPhaHiro1 (Phakellia hirondellei)
+# files for odPhaCfro1 (Phakellia cf. robusta)
 * galba.aa.xz - proteins from GALBA predictions
 * galba.gtf.xz - GTF style annoations from GALBA
 
@@ -10,4 +10,4 @@
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt
 
 # Notes:
-* there will be a namechange from Phakellia hirondellei to Phakelia cf. robusta
+* it was previously named odPhaHiro1 (Phakellia hirondellei), some files will be named with the old identifier
