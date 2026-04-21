@@ -9,3 +9,5 @@
 # UCSC assembly hub
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt
 
+# Notes
+* an earlier version contained odSpoBarb1 data instead of odSarFasc1
