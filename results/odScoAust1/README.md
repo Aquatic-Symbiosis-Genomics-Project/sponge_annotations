@@ -1,10 +1,10 @@
-# files for odColAuri1 (Lendenfeldia sp. GHC0000049)
+# files for odScoAust1 (Scopalina cf. australiensis)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 
 # files hosted elsewhere
-* [softmasked genome FASTA](https://asg_hubs.cog.sanger.ac.uk/odColAuri1/odColAuri1.fa.masked)
-* [tarball of RepeatModeller output](https://asg_hubs.cog.sanger.ac.uk/odColAuri1/odColAuri1.tar.xz)
+* [softmasked genome FASTA](https://asg_hubs.cog.sanger.ac.uk/odScoAust1/odScoAust1.fa.masked)
+* [tarball of RepeatModeller output](https://asg_hubs.cog.sanger.ac.uk/odScoAust1/odScoAust1.tar.xz)
 
 # UCSC assembly hub
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt
