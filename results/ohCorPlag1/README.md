@@ -11,3 +11,6 @@
 
 # UCSC assembly hub
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt
+
+# Note
+* added BRAKER3 predictions (2nd of June 2026)
