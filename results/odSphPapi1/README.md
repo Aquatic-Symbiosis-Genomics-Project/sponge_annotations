@@ -1,4 +1,4 @@
-# files for odSphPapi1 (Spheciospongia papillosa)
+# files for odSphPapi1 (Hymeniacidon sp. OTU 148)
 * galba.aa.xz - proteins from GALBA predictions
 * galba.gtf.xz - GTF style annoations from GALBA
 * braker.aa.xz - proteins from BRAKER3 predictions
@@ -11,3 +11,6 @@
 
 # UCSC assembly hub
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt
+
+# notes
+* was called Spheciospongia papillosa before renamine
