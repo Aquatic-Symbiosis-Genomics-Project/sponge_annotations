@@ -1,8 +1,4 @@
-# notes
-* it is very unlikely Spongia barbara, but rather a sample swap with something else
-* the assembly is scaffold level
-
-# files for osSpoBarb1 (Spongia barbara)
+# files for odNipDigi1 (Niphates digitalis)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 
@@ -12,4 +8,10 @@
 
 # UCSC assembly hub
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt
+
+# notes
+* used to be Spongia barbara / odSpoBarb1, but wasa sample swap
+* some of the files will be still named with the old TOLid
+* the assembly is scaffold level
+
 
