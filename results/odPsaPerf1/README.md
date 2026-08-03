@@ -1,8 +1,6 @@
-# files for odPsaPerf1 (Psammocinia perforodorsa)
+# files for odPsaPerf1 (Spheciospongia papillosa)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
-* galba.aa.xz - proteins from GALBA predictions
-* galba.gtf.xz - GTF style annoations from GALBA
 
 # files hosted elsewhere
 * [softmasked genome FASTA](https://asg_hubs.cog.sanger.ac.uk/odPsaPerf1/odPsaPerf1.fa.masked)
@@ -13,5 +11,5 @@
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt
 
 # Notes
-* the BRAKER3 predictions are the recommended gene set
-* the species has been identified as NOT Psammocinia perforodorsa, additional taxonomic classification is ongoing.
+* the sample has been thought to be Psammocinia perforodorsa, but additional taxonomic classification identified it as Spheciospongia papillosa
+* additional cobiont sequences have been found by the Genome Notes editor and have been cleaned in the .2 assembly
