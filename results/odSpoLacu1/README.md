@@ -1,7 +1,7 @@
 # Notes
 The BRAKER3 geneset was repredicted with braker 3.0.8 and updated protein/rna data
 
-# files for odSpoLacu1
+# files for odSpoLacu1 (Spongilla lacustris)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 * galba.aa.xz - proteins from GALBA predictions

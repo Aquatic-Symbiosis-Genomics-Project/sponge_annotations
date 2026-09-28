@@ -1,4 +1,4 @@
-# files for odPhaRobu1 / Phakellia robusta
+# files for odPhaRobu1 (Phakellia robusta)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 * galba.aa.xz - proteins from GALBA predictions

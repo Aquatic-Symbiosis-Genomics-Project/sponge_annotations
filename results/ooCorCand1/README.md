@@ -1,4 +1,4 @@
-# files for ooCorCand1
+# files for ooCorCand1 (Corticium candelabrum)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 * galba.aa.xz - proteins from GALBA predictions

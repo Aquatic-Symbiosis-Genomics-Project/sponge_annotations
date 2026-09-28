@@ -5,6 +5,7 @@
 # files hosted elsewhere
 * [softmasked genome FASTA](https://asg_hubs.cog.sanger.ac.uk/odSpoOffi1/odSpoOffi1.fa.masked)
 * [tarball of RepeatModeller output](https://asg_hubs.cog.sanger.ac.uk/odSpoOffi1/odSpoOffi1.tar.xz)
+* [BAM file](https://asg_hubs.cog.sanger.ac.uk/odSpoOffi1/VARUS.bam) of VARUS sampled RNASeq from SRA 
 
 # UCSC assembly hub
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt

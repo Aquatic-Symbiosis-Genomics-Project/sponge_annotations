@@ -1,4 +1,4 @@
-# files for odRhoOdor1 / Rhopaloeides odorabile
+# files for odRhoOdor1 (Rhopaloeides odorabile)
 * galba.aa.xz - proteins from GALBA predictions
 * galba.gtf.xz - GTF style annoations from GALBA
 * braker.aa.xz - proteins from BRAKER3 predictions

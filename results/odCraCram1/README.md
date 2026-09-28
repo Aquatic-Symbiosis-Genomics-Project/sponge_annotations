@@ -1,4 +1,4 @@
-# files for odCraCram1
+# files for odCraCram1 (Crambe crambe)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 

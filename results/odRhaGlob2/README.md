@@ -1,4 +1,4 @@
-# files for odRhaGlob2 / Rhabdastrella globostellata
+# files for odRhaGlob2 (Rhabdastrella globostellata)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 * galba.aa.xz - proteins from GALBA predictions

@@ -1,4 +1,4 @@
-# files for odAxiDami1
+# files for odAxiDami1 (Axinella damicornis)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 
@@ -8,4 +8,7 @@
 
 # UCSC assembly hub
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt
+
+# Notes:
+* used RNASeq from Ana for the predictions
 

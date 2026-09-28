@@ -1,4 +1,4 @@
-# files for odGeoParv2 / Geodia parva
+# files for odGeoParv2 (Geodia parva)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 

@@ -1,6 +1,6 @@
 # protein sets
-## porifera_uniprot_13_01_2025.fa.xz
-All porifera proteins of UniProt as of 13th of January 2025
+## porifera_uniprot_29_09_2025.fa.xz
+All porifera proteins of UniProt as of 29th of September 2025
 
 ## Aphrocallistes_vastus.prot.fr.fasta.xz
 From ["The genome of the reef-building glass sponge Aphrocallistes vastus provides insights into silica biomineralization"

@@ -5,7 +5,7 @@
 # files hosted elsewhere
 * [softmasked genome FASTA](https://asg_hubs.cog.sanger.ac.uk/odPsaPerf1/odPsaPerf1.fa.masked)
 * [tarball of RepeatModeller output](https://asg_hubs.cog.sanger.ac.uk/odPsaPerf1/odPsaPerf1.tar.xz)
-* [HISAT2 aligned RNASeq](https://asg_hubs.cog.sanger.ac.uk/odPsaPerf1/VARUS/bam)
+* [HISAT2 aligned RNASeq](https://asg_hubs.cog.sanger.ac.uk/odPsaPerf1/VARUS.bam)
 
 # UCSC assembly hub
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt

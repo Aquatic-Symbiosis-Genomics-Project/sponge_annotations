@@ -7,7 +7,7 @@ currently created using [TE Tools](https://github.com/Dfam-consortium/TETools) =
 ## results/
 ### tolID/
 * protein fasta file (braker.aa or galba.aa)
-* GTF file (braker.gtf or galba.tpf)
+* GTF file (braker.gtf or galba.gtf)
 * description of additional files of interest (RNASeq libraries / genome sequences / repeat libraries)
 ## protein_sets/
 * description of the origin of the sequences used to train BRAKER3/GALBA

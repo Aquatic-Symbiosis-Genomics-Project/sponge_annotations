@@ -1,4 +1,4 @@
-# files for odCalManu1 / Callyspongia manus
+# files for odCalManu1 (Callyspongia manus)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 

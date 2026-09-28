@@ -1,4 +1,4 @@
-# files for odChoCari5 / Chondrilla cf. caribensis
+# files for odChoCari5 (Chondrilla cf. caribensis)
 * galba.aa.xz - proteins from GALBA predictions
 * galba.gtf.xz - GTF style annoations from GALBA
 * braker.aa.xz - proteins from BRAKER3 predictions

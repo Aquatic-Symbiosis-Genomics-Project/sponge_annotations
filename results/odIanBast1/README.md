@@ -1,4 +1,4 @@
-# files for odIanBast1 / Ianthella basta
+# files for odIanBast1 (Ianthella basta)
 * galba.aa.xz - proteins from GALBA predictions
 * galba.gtf.xz - GTF style annoations from GALBA
 * braker.aa.xz - proteins from BRAKER3 predictions

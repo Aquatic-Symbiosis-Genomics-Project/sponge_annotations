@@ -1,4 +1,4 @@
-# files for odSphPapi1 (Spheciospongia papillosa)
+# files for odSphPapi1 (Hymeniacidon sp. OTU 1487)
 * galba.aa.xz - proteins from GALBA predictions
 * galba.gtf.xz - GTF style annoations from GALBA
 * braker.aa.xz - proteins from BRAKER3 predictions

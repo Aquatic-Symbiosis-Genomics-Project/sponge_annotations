@@ -1,4 +1,4 @@
-# files for odNeoBowe1 / Neoschrammeniella bowerbankii
+# files for odNeoBowe1 (Neoschrammeniella bowerbankii)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 

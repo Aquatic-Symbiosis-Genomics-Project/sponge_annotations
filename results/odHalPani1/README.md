@@ -1,7 +1,7 @@
 # Note
 * did an update run with braker 3.07 and newer proteins/RNA
 
-# files for odHalPani1
+# files for odHalPani1 (Halichondria panicea)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 * galba.aa.xz - proteins from GALBA predictions

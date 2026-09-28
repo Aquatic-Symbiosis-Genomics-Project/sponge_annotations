@@ -1,4 +1,4 @@
-# files for odDysAvar1
+# files for odDysAvar1 (Dysidea avara)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 

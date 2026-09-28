@@ -1,4 +1,4 @@
-# files for odCliOrie1
+# files for odCliOrie1 (Cliona orientalis)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 

@@ -1,4 +1,4 @@
-# files for ocSycCili1 / Sycon ciliatum
+# files for ocSycCili1 (Sycon ciliatum)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 

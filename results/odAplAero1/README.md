@@ -1,4 +1,4 @@
-# files for odAplAero1
+# files for odAplAero1 (Aplysina aerophoba)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 

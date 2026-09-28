@@ -1,4 +1,4 @@
-# files for odDiaEryt1 / Diacarnus erythraeanus
+# files for odDiaEryt1 (Diacarnus erythraeanus)
 * galba.aa.xz - proteins from GALBA predictions
 * galba.gtf.xz - GTF style annoations from GALBA
 * braker.aa.xz - proteins from BRAKER3 predictions

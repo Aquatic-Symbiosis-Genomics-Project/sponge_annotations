@@ -1,4 +1,4 @@
-# files for odTheSchm1 (Thenea schmidti )
+# files for odTheSchm1 (Thenea schmidti)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 

@@ -1,4 +1,4 @@
-# files for odPhaVent3 (Phyllospongia ventilabrum)
+# files for odPhaVent3 (Phakellia ventilabrum)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 

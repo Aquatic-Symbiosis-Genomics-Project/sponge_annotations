@@ -1,7 +1,7 @@
 # Notes
 * for this species the BRAKER2 geneset scored a higher OMArk completion than GALBA
 
-# files for odXesMuta1
+# files for odXesMuta1 (Xestospongia muta)
 * galba.aa.xz - proteins from GALBA predictions
 * galba.gtf.xz - GTF style annoations from GALBA
 * braker.aa.xz - proteins from BRAKER2 predictions

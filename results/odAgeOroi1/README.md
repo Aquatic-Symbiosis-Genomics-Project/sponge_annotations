@@ -1,7 +1,7 @@
 # Notes
 updated the geneset with braker3 (3.0.7) and updated RNA/proteins
 
-# files for odAgeOroi1
+# files for odAgeOroi1 (Agelas oroides)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 

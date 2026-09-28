@@ -1,4 +1,4 @@
-# files for odChoAust1 / Chondrilla australiensis
+# files for odChoAust1 (Chondrilla australiensis)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 

@@ -1,7 +1,7 @@
 # Notes
 The GALBA predictions are notably better than BRAKER3 for this species
 
-# files for odHalCaeu1
+# files for odHalCaeu1 (Halisarca caerulea)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 * galba.aa.xz - proteins from GALBA predictions

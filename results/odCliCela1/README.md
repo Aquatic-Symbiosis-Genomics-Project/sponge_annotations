@@ -1,4 +1,4 @@
-# files for Cliona celata (odCliCela1)
+# files for odCliCela1 (Cliona cf. celata)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 
