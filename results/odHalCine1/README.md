@@ -1,4 +1,4 @@
-# files for odHalCine1 (Haliclona cinerea)
+# files for odHalCine1 (Haliclona xena)
 * galba.aa.xz - proteins from GALBA predictions
 * galba.gtf.xz - GTF style annoations from GALBA
 
@@ -9,3 +9,5 @@
 # UCSC assembly hub
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt
 
+# Notes
+* used to be Haliclona cinerea

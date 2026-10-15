@@ -1,7 +1,4 @@
-# Notes
-The GALBA predictions are notably better than BRAKER3 for this species
-
-# files for odHalCaeu1 (Halisarca caerulea)
+# files for odHalCaeu1 (Halisarca cf. caerulea)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
 * galba.aa.xz - proteins from GALBA predictions
@@ -14,4 +11,8 @@ The GALBA predictions are notably better than BRAKER3 for this species
 
 # UCSC assembly hub
 use https://asg_hubs.cog.sanger.ac.uk/assembly_hubs/hub.txt
+
+# Notes
+* The GALBA predictions are notably better than BRAKER3 for this species
+* used to be Halisarca caerulea
 
