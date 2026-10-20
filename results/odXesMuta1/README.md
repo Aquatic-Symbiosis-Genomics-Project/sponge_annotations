@@ -6,6 +6,8 @@
 * galba.gtf.xz - GTF style annoations from GALBA
 * braker.aa.xz - proteins from BRAKER2 predictions
 * braker.gtf.xz - GTF from BRAKER2 predictions
+* braker_censored.aa.xz - braker.aa.xz without the genes on contaminant sequences (david/PROKS)
+* braker_censored.gtf.xz - braker.gtf.xz without the genes on contaminant sequences (david/PROKS)
 
 # files hosted elsewhere
 * [softmasked genome FASTA](https://asg_hubs.cog.sanger.ac.uk/odXesMuta1/odXesMuta1.fa.masked)
