@@ -6,8 +6,8 @@
 # files for odEphMuel1 (Ephydatia cf. muelleri)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
-* braker_censored.aa.xz - braker.aa.xz without the genes on contaminant sequences (david/PROKS)
-* braker_censored.gtf.xz - braker.gtf.xz without the genes on contaminant sequences (david/PROKS)
+* braker_censored.aa.xz - braker.aa.xz without the proteins of genes on contaminant sequences identified by David Ngugi's contamination screen
+* braker_censored.gtf.xz - braker.gtf.xz without the genes on contaminant sequences identified by David Ngugi's contamination screen
 * galba.aa.xz - proteins from GALBA predictions
 * galba.gtf.xz - GTF style annoations from GALBA
 

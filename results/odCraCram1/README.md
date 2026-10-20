@@ -1,8 +1,8 @@
 # files for odCraCram1 (Crambe crambe)
 * braker.aa.xz - proteins from BRAKER3 predictions
 * braker.gtf.xz - GTF style annoations from BRAKER3
-* braker_censored.aa.xz - braker.aa.xz without the genes on contaminant sequences (david/PROKS)
-* braker_censored.gtf.xz - braker.gtf.xz without the genes on contaminant sequences (david/PROKS)
+* braker_censored.aa.xz - braker.aa.xz without the proteins of genes on contaminant sequences identified by David Ngugi's contamination screen
+* braker_censored.gtf.xz - braker.gtf.xz without the genes on contaminant sequences identified by David Ngugi's contamination screen
 
 # files hosted elsewhere
 * [softmasked genome FASTA](https://asg_hubs.cog.sanger.ac.uk/odCraCram1/odCraCram1.fa.masked)
